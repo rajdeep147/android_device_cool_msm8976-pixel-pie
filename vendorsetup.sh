@@ -1,1 +1,1 @@
-add_lunch_combo aosp_c106-userdebug
+add_lunch_combo viper_c106-userdebug
